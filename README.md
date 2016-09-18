@@ -1,1 +1,1 @@
-# tiisetso.github.io
+# Personal blog. Work in pogress.
