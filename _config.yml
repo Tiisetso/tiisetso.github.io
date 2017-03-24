@@ -3,5 +3,5 @@ kramdown:
   parse_block_html: true
 
 permalink: /blog/:year/:month/:day/:title
-
-root: /octo-5
+baseurl: /
+url: http://USERNAME.github.io
