@@ -3,4 +3,4 @@ kramdown:
   parse_block_html: true
 
 permalink: /blog/:year/:month/:day/:title
-baseurl: "/blog"
+baseurl: "/"
