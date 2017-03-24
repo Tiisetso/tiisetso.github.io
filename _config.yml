@@ -4,4 +4,4 @@ kramdown:
 
 permalink: /blog/:year/:month/:day/:title
 baseurl: /
-url: http://tiisetso.github.io
+url: http://tiisetso.com
