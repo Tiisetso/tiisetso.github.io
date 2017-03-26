@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-![me]({{ site.url }}/assets/img/profile.png)
+![me]({{ site.url }}/assets/img/profile.PNG)
 
 Hi,
 
