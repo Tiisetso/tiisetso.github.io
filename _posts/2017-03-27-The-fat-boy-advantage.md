@@ -2,7 +2,7 @@
 layout:     post
 title:      The fat boy advantage
 date:       2017-03-27 23:00:00
-summary:    A look into my experiences eating and managing my diet.
+summary:    Some thoughts into my experience eating for my body type.
 categories: health
 ---
 It’s taken me over a decade to understand my body. I used to hate it. It gained fat easily, too easily. Most would point to my ability to consume vast quantities of food like a human black hole. Also, I eat quickly. Doesn’t feel fast for me nor do I try to finish before everyone but I at any given table I am and could easily finish two plates twice the size of the first plate most are only halfway through.
