@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The fat boy advantage
-date:       2017-03-29
+date:       2017-03-27
 summary:    Some thoughts into my experience eating for my body type.
 categories: health
 ---
