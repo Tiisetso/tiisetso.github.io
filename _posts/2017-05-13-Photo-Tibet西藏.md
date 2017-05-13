@@ -9,6 +9,11 @@ categories: china
 {% for image in site.static_files %}
     {% if image.path contains 'posts/Tibet' %}
         <img src="{{ site.url }}{{ image.path }}" />
-        ![]({{ site.url }}{{ image.path }})
+    {% endif %}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img' %}
+        <img src="{{ site.url }}{{ image.path }}" />
     {% endif %}
 {% endfor %}
