@@ -6,6 +6,8 @@ summary:    Six days in Tibet.
 categories: china
 ---
 
+<img src="{{ site.url }}/assets/posts/Tibet/DSCF2574.jpg" />
+
 {% for image in site.static_files %}
     {% if image.path contains 'posts/Tibet' %}
         <img src="{{ site.url }}{{ image.path }}" />
