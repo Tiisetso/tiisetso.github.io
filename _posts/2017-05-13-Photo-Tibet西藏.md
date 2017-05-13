@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Tibet
-date:       2014-06-11 15:31:19
+date:       2017-05-12 16:31:19
 summary:    Six days in Tibet.
 categories: china
 ---
