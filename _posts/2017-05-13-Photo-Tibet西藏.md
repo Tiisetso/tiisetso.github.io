@@ -2,7 +2,7 @@
 layout:     post
 title:      Tibet 西藏
 date:       2017-05-12 16:31:19
-summary:    Photos from my six days in Tibet.
+summary:    Photo highlights from my six days in Tibet.
 categories: china
 ---
 <!--
