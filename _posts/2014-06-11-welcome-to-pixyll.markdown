@@ -6,6 +6,13 @@ summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes conte
 categories: jekyll pixyll
 ---
 
+
+<!-- {% for image in site.static_files %}
+    {% if image.path contains 'posts/Tibet' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="Photos from Tibet" />
+    {% endif %}
+{% endfor %} -->
+
 Hello.
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
