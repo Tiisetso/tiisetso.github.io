@@ -7,11 +7,11 @@ categories: jekyll pixyll
 ---
 
 
-<!-- {% for image in site.static_files %}
+{% for image in site.static_files %}
     {% if image.path contains 'posts/Tibet' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="Photos from Tibet" />
     {% endif %}
-{% endfor %} -->
+{% endfor %}
 
 Hello.
 
