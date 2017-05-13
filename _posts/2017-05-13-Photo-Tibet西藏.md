@@ -2,7 +2,7 @@
 layout:     post
 title:      Photo Essay: Tibet西藏
 date:       2017-05-13 16:33:00
-summary:    My trip to Hunan for Chinese New Year.
+summary:    Six days in Tibet.
 categories: china
 ---
 <!-- ![]({{ site.url }}/assets/img/Tibet/.jpg) -->
