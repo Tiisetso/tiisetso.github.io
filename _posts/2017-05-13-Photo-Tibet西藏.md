@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Photo Essay: Tibet西藏
+title:      Tibet西藏
 date:       2017-05-13 16:33:00
 summary:    Six days in Tibet.
 categories: china
