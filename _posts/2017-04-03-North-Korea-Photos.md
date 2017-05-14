@@ -8,6 +8,8 @@ categories: china
 
 {% for image in site.static_files %}
     {% if image.path contains 'posts/2017-04-03-North-Korea-Photos' %}
-        <img src="{{ site.url }}{{ image.path }}" />
+        <div>
+          <img src="{{ site.url }}{{ image.path }}" />
+        </div>
     {% endif %}
 {% endfor %}
