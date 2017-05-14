@@ -24,6 +24,7 @@ layout: default
 
 <article class="post-content">
   {{ content }}
+  {{ page.content | markdownify }}
 </article>
 
 {% if site.show_sharing_icons %}
