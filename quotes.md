@@ -9,14 +9,14 @@ Ever failed.<br>
 No matter.<br>
 Try Again.<br>
 Fail again.<br>
-Fail better.<br>"
+Fail better."
 
 -- Samuel Beckett
 
->"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."
+"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."
 
-- Alan Kay
+-- Alan Kay
 
 "Don't fear moving slowly. Fear standing still."
 
-- Chinese proverb
+-- Chinese proverb
