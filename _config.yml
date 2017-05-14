@@ -2,7 +2,7 @@
 title:       Tiisetso
 email:       tiisetsomurray+hello@gmail.com
 author:      Tiisetso Murray
-description: "A blog to hold and share my experiences and thoughts."
+description: "A blog to share my experiences and thoughts."
 baseurl:     ""
 url:         "http://tiisetso.com"
 date_format: "%b %-d, %Y"
@@ -102,7 +102,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
