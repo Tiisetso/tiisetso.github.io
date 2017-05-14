@@ -2,7 +2,7 @@
 layout:     post
 title:      North Korea 朝鲜
 date:       2017-04-03 21:24:00
-summary:    Photo highlights from a brief trip to North Korea.
+summary:    Photo highlights from a brief trip to Sinuiju, North Korea.
 categories: china
 ---
 
