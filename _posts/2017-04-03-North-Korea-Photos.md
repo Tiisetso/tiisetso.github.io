@@ -11,6 +11,7 @@ categories: china
           <img src="{{ site.url }}{{ image.path }}" />
     {% endif %}
 {% endfor %} -->
+
 <img src="{{ site.url }}/assets/posts/2017-04-03-North-Korea-Photos/DPRK - 1.jpg" />
 
 <img src="{{ site.url }}/assets/posts/2017-04-03-North-Korea-Photos/DPRK - 2.jpg" />
