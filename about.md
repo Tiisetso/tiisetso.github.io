@@ -10,4 +10,6 @@ Hi,
 
 My name is Tiisetso and this is my blog.
 
-I'm an industrial engineer from South Africa and I am currently learning Mandarin in China for a year.
+I'm an industrial engineer from South Africa and I am currently learning Mandarin in China until July 2017.
+
+You can find my [CV]({{ site.url }}/assets/pdf/CV - Tiisetso Murray.pdf) here.
