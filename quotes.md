@@ -20,3 +20,7 @@ Fail better."
 "Don't fear moving slowly. Fear standing still."
 
 -- Chinese proverb
+
+"Education makes a people easy to lead, but difficult to drive; easy to govern but impossible to enslave."
+
+--Henry Brougham
