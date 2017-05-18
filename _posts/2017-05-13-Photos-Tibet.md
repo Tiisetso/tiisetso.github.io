@@ -5,13 +5,20 @@ date:       2017-05-12 16:31:19
 summary:    Photo highlights from my six days in Tibet, China.
 categories: china
 ---
-<!--
+<ul>
 {% for image in site.static_files %}
     {% if image.path contains 'posts/Tibet' %}
-        <img src="{{ site.url }}{{ image.path }}" />
+        <li><img src="{{ site.url }}{{ image.path }}" /></li>
         {{ image.path }}
     {% endif %}
-{% endfor %} -->
+{% endfor %}
+</ul>
+
+<!-- <ul>
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul> -->
 
 <img src="{{ site.url }}/assets/posts/Tibet/DSCF2574.jpg" />
 
