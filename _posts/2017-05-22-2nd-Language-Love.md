@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Second Language Love for All
+title:      2nd Language Love
 date:       2017-05-21 18:44:09
 summary:    Improving second languages beyond English.
 categories: language
