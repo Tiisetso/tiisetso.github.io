@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Second Language for All
+title:      Second Language Love for All
 date:       2017-01-29 18:44:09
 summary:    Improving second languages beyond English.
 categories: language
@@ -29,4 +29,4 @@ It is easy to walk into a book store in Johannesburg and find books on how to le
 
 Why don't we have this in South Africa? Why isn't there an ongoing project by government to hire the Pimsleur or Michel Thomas people to make beginner, intermediate, and advanced tapes for all eleven languages? It wouldn't be that big at undertaking and would only need to be done once. Apps like Anki are a free spaced repetition flashcard apps that was invaluable for learning. A very useful approach for learning mandarin is to increase your vocabulary by learning characters and word frequency lists. A frequency list is an ordered list of the most common words form a language. Learn the first 1000 and you'll cover a huge percentage of what is spoken daily. They're not perfect but knowing the words helps one focus on catching them while listening and allows for focus on grammar in real life situations. As a start we should provide flash card lists of the top 1500 words and definitions in each of our languages. And all of the above should be available for free. Maybe as a final incentive, we could have a proficiency tests and give tiny tax incentive to anyone who commits to learning the lists or passes a simple ten minute conversation test.
 
-The more I think about it the more I think it is an essential missing part of modern South Africa. 
+The more I think about it the more I think it is an essential missing part of modern South Africa.

@@ -6,7 +6,7 @@ description: "A blog to share my experiences and thoughts."
 baseurl:     ""
 url:         "http://tiisetso.com"
 date_format: "%b %-d, %Y"
-
+timezone: Asia/Shanghai
 show_drafts: false
 future: false
 
