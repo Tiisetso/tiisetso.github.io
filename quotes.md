@@ -6,12 +6,12 @@ tags: likes
 ---
 Content that I like and recommend reading.
 
-## Essays
+### Essays
 
-(You and Your Research)[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html] by Richard Hamming.
+[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming.
 
 
-## Quotes
+### Quotes
 "Ever tried.<br>
 Ever failed.<br>
 No matter.<br>
