@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Quotes
-permalink: /quotes/
-tags: quotes
+title: Likes
+permalink: /likes/
+tags: likes
 ---
+Content that I like and recommend reading.
+
+## Essays
+
+(You and Your Research)[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html] by Richard Hamming.
+
+
+## Quotes
 "Ever tried.<br>
 Ever failed.<br>
 No matter.<br>
