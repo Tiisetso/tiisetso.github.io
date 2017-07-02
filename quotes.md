@@ -6,12 +6,17 @@ tags: likes
 ---
 Content that I like and recommend reading.
 
-### Essays
+#### Essays
 
 [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming.
 
 
-### Quotes
+#### Talks
+[My architectural philosophy? Bring the community into the process](https://www.ted.com/talks/alejandro_aravena_my_architectural_philosophy_bring_the_community_into_the_process/transcript#t-720124) by Alejandro Aravena
+
+[How to build with clay ... and community](https://www.ted.com/talks/diebedo_francis_kere_how_to_build_with_clay_and_community) by Diébédo Francis Kéré
+
+#### Quotes
 "Ever tried.<br>
 Ever failed.<br>
 No matter.<br>
