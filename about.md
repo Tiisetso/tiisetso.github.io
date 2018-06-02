@@ -8,8 +8,8 @@ tags: about
 
 Hi,
 
-My name is Tiisetso and this is my blog.
+My name is Tiisetso Murray and this is my blog. 
 
-I'm an industrial engineer from South Africa and I am currently studying my masters in Industrial Engineering in China until July 2018.
+I'm an industrial engineer from South Africa currently studying my masters in engineering at Tsinghua University in Beijing, China until August 2018.
 
 You can find my [CV]({{ site.url }}/assets/pdf/CV - Tiisetso Murray.pdf) here.
