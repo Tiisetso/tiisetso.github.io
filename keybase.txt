@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tiisetso
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tiisetso.com
+  * I am tiisetso (https://keybase.io/tiisetso) on keybase.
+  * I have a public key ASDubj5aO5YmyiGkKiLQurJ1K4_Eg4zXtTeKuc3J7sHxBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ee6e3e5a3b9626ca21a42a22d0bab2752b8fc4838cd7b5378ab9cdc9eec1f1070a",
+      "host": "keybase.io",
+      "kid": "0120ee6e3e5a3b9626ca21a42a22d0bab2752b8fc4838cd7b5378ab9cdc9eec1f1070a",
+      "uid": "a5bd59cdd185d292938abbfd4438a319",
+      "username": "tiisetso"
+    },
+    "merkle_root": {
+      "ctime": 1531484579,
+      "hash": "cf820bd240837a15da007696eea7a26936a1b2241f7af1c72a44b0c2ac34d4f72800968ceddb13e1c30dfda65f6bb83a13876b7966c3b72832fe3885b0d55cf6",
+      "hash_meta": "df9ffadaf711bd9cfba2dbd830f04367646d47127b8a7225f336cd3690f6b071",
+      "seqno": 3259907
+    },
+    "service": {
+      "entropy": "mqUF1/rQv+3x7sYuLJZm0YXi",
+      "hostname": "tiisetso.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1531484668,
+  "expire_in": 504576000,
+  "prev": "97aee943cc22a15d820e0596cad49b7088ab03f4fdb974240c17d21ad0dd1bdb",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7m4+WjuWJsohpCoi0LqydSuPxIOM17U3irnNye7B8QcKp3BheWxvYWTESpcCE8Qgl67pQ8wioV2CDgWWytSbcIirA/T9uXQkDBfSGtDdG9vEIJAU3E9XF3TgBv9re5IYh3hbYCl/9XjQQp6sZQ4P6P2FAgHCo3NpZ8RAZ9K/dkpbaEUNFxALqdtUvSqKkq8h13dPXDK7NrfJ9WRnKw2LRyxEvxSHSok/uF6Z5wVjq8FahEuAKsojfvP/C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEqb4WHQureJj7/iG61KIJkPQpJjqbX4M9oWY+zOxwWeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tiisetso
+
+==================================================================
