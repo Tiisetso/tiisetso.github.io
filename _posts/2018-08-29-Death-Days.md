@@ -2,7 +2,7 @@
 layout:     post
 title:      Death Days
 date:       2018-08-29 02:59:19
-summary:    Anniversary of life's end
+summary:    Anniversary of life's end.
 categories: thoughts
 ---
 I can easily think of several birthdays of friends and family but few death days. We celebrate birthdays to honour the people we care about. But when someone dies what do we do with that date?
