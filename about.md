@@ -10,7 +10,7 @@ Hi,
 
 My name is Tiisetso Daniel Murray and this is my blog. 
 
-I'm a South African living in Milan, Italy studying a double masters degree in industrial engineering. I've lived in Beijing, China for two years where I started my degree and attended Mandarin language classes in addition to travelling all over China. 
+I'm a South African living in Milan studying a double masters degree in industrial engineering. I've lived in Beijing for two years where I started my degree and attended Mandarin language classes in addition to travelling all over China. 
 
 I moved to Italy to complete a triangle and experience a first world country and European culture. China where the world is manufactured and Italy where design is everything. The delicious foods I keep finding may also play a bigger role that I'll ever let on. 
 
