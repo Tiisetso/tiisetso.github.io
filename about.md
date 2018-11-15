@@ -6,7 +6,7 @@ tags: about
 ---
 
 
-Hi,
+你好,
 
 My name is Tiisetso Daniel Murray and this is my blog. 
 
